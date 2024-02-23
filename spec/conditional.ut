@@ -1,0 +1,1 @@
+Hello ${if user.is_nice}magnificient ${end}${user.name}

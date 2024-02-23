@@ -1,0 +1,5 @@
+${use "mother.ut"}
+  ${as body_d}
+Hello from daughter !
+  ${end}
+${end}

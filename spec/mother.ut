@@ -1,0 +1,7 @@
+${use "grand_mother.ut"}
+  ${as body_g}
+Mother start
+  ${anchor body_d}
+Mother end
+  ${end}
+${end}

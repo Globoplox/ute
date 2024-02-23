@@ -1,0 +1,1 @@
+Grocery list:${for item in list} ${item}${end}. That's all.
